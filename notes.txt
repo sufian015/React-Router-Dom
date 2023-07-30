@@ -1,0 +1,6 @@
+redirect korar steps
+
+1. useNavigate hooks import korte hobe
+2. useNavigate ekta variable er vitore rakhbo
+3. ekhn use korar jonno navigate variable er vitor path ta bole dibo
+example: navigate('/')
