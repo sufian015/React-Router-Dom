@@ -1,6 +1,20 @@
-redirect korar steps
+//redirect korar steps
 
 1. useNavigate hooks import korte hobe
 2. useNavigate ekta variable er vitore rakhbo
 3. ekhn use korar jonno navigate variable er vitor path ta bole dibo
 example: navigate('/')
+
+
+// Dynamic data styling
+
+1. routes e path params dite hbe example /blog/:title .
+2. ekhn ekta route create korbo .
+3. title er dara amr full data ke show korabo
+
+4. path params recive korar jonno use params hook use korlam.
+5. Then useEffect e bollam : const blogdata= blogData.filter((blog)=>blog.title===title); 
+
+6. sob data gulo ekta route e add korte hoy.
+
+evabe Dynamic data add kora hoy.

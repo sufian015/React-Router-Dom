@@ -64,3 +64,27 @@ nav .active{
   color: yellow;
 
 }
+
+section{
+  display: grid;
+  gap: 1rem;
+}
+ article{
+  background-color: antiquewhite;
+ }
+
+
+ @media screen and (min-width:600px) {
+
+  section{
+    grid-template-columns: auto auto;
+  }
+  
+ }
+ @media screen and (min-width:992px) {
+
+  section{
+    grid-template-columns: auto auto auto;
+  }
+  
+ }
