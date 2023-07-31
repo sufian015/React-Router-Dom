@@ -18,3 +18,15 @@ example: navigate('/')
 6. sob data gulo ekta route e add korte hoy.
 
 evabe Dynamic data add kora hoy.
+
+
+// use location hook
+
+agey import kore nite hbe.
+then link theke projojio data pass korle automatic
+ useLocation catch korbe.
+ use location ekta variable er vitore rakhte hbe.
+ variable takey console korle uses er rasta pabe...
+
+ // routes params er jonno use params
+ // query params er jonno useSearchParams hook use korbo
